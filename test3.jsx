@@ -1,6 +1,9 @@
 const test3 = () => {
     return (
-        <div>u</div>
+        <div>
+            <div>u</div>
+            <div>추가한 부분</div>
+        </div>
     )
 }
 
